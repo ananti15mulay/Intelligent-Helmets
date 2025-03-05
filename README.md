@@ -1,5 +1,4 @@
-# Intelligent-HelmetsSmart Helmet
-
+# Intelligent-Helmets
 Team hack-o-holics from cummins college of engineering for women, pune worked on this project as a part of an hackathon
 team mates:- ananti mulay, gargee dorle, isha purnapatre, shruti kulkarni
 
